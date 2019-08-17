@@ -1,3 +1,5 @@
+This project is made with the help of you channel "Hamza Mirza" from link "https://www.youtube.com/watch?v=P0vsGO4svUM" and all the source code written from scratch.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
